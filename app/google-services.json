@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629501555683",
+    "project_id": "luxeglow-197dd",
+    "storage_bucket": "luxeglow-197dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629501555683:android:f8165e93d32c9588a9a6d6",
+        "android_client_info": {
+          "package_name": "com.example.luxeglow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwznpTWKLWJfzKr9SJlMgVnyDyHWUo79c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
